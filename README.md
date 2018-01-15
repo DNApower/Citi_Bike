@@ -5,5 +5,5 @@ Citi Bike is a very convenient way to commute in the New York City. However, the
 1. The bike trip data from [Citi bike system data](https://www.citibikenyc.com/system-data) is used to calculate the parking time of a bike at each station.
 2. The docker data collteced by [TheOpenBuss](https://www.theopenbus.com/) is used to calculate the daily bike occupation ratio.
 
-## Daily bike occupation ratio and parking time at each station
-![GitHub Logo](/images/logo.png)
+## Result
+![Daily bike occupation ratio and parking time at each station](/images/stations.png)
