@@ -7,6 +7,7 @@ Citi Bike is a very convenient way to commute in the New York City. However, the
 
 ## Result
 #### 1. Daily bike occupation ratio and parking time at each station
-![Daily bike occupation ratio and parking time at each station](https://public.tableau.com/profile/jie.peng3896#!/vizhome/Station_Classification_Results/CitiBikebikedemandandsupplyanalysis)
+![Daily bike occupation ratio and parking time at each station](https://github.com/DNApower/Citi_Bike/blob/master/image/stations.png)
+
 #### 2. Rebalancing stragety
 ![rebalancing](https://github.com/DNApower/Citi_Bike/blob/master/image/removing_strategy.png)
